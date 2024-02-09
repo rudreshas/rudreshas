@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rudreshas
 - 👀 I’m interested in IOS dev
 - 🌱 I’m currently learning Android dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on github 
 - 📫 How to reach me ...
 
 <!---
