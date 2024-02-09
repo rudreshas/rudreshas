@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOS dev
 - 🌱 I’m currently learning Android dev
 - 💞️ I’m looking to collaborate on github enterprise 
-- 📫 How to reach me ...
+- 📫 How to reach me Apple employees 
 
 <!---
 rudreshas/rudreshas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
