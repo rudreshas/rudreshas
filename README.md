@@ -1,3 +1,4 @@
+<img align="top" alt="AI" width="500" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20230911173805%2FWhat-is-Artiificial-Intelligence(AI).webp&tbnid=ZseyMsJI4_r0RM&vet=1&imgrefurl=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-artificial-intelligence%2F&docid=tZuMzXdPpdzqxM&w=1000&h=470&hl=en-AU&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=83ce2988851b3510">
 <h1 align="center">Hi 👋, I'm Rudresha S</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3kqdc25i4tl0t.cloudfront.net%2Farticles%2Fcontent%2F519_295775_tech.hero.jpg&tbnid=JE-nVCAxEsyw5M&vet=1&imgrefurl=https%3A%2F%2Fwww.topresume.com%2Fcareer-advice%2Fsenior-software-engineer-job-description&docid=bYxsNIHDCieLXM&w=1600&h=900&hl=en-AU&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=91effdfe5dad6fe8">
