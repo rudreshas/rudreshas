@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Rudresha S</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3kqdc25i4tl0t.cloudfront.net%2Farticles%2Fcontent%2F519_295775_tech.hero.jpg&tbnid=JE-nVCAxEsyw5M&vet=1&imgrefurl=https%3A%2F%2Fwww.topresume.com%2Fcareer-advice%2Fsenior-software-engineer-job-description&docid=bYxsNIHDCieLXM&w=1600&h=900&hl=en-AU&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=91effdfe5dad6fe8">
-- 🔭 I’m currently working on Apple [Youtube channel](https://www.youtube.com/@Greatdevelopers369)
+- 🔭 I’m currently working on My goal[Youtube channel](https://www.youtube.com/@Greatdevelopers369)
 
-- 🌱 I’m currently learning **IOS app development**
+- 🌱 I’m currently learning ethical hacking 
 
-- 👯 I’m looking to collaborate on [Youtube channel](https://www.youtube.com/@Greatdevelopers369)
+- 👯 I’m looking to collaborate on social media [Youtube channel](https://www.youtube.com/@itechtalent)
 
-- 🤝 I’m looking for help with [Microsoft learn](https://learn.microsoft.com/en-au/users/)
+- 🤝 I’m looking for help with build good network[Microsoft learn](https://learn.microsoft.com/en-au/users/)
 
 - 👨‍💻 All of my projects are available at [https://x.com/RudreshaS369?t=TCN_NU_zJVuReOY4ERA9Pg&s=08](https://x.com/RudreshaS369?t=TCN_NU_zJVuReOY4ERA9Pg&s=08)
 
-- 💬 Ask me about **UIKit, ios, iPadOS, MacOS, visionos skills.**
+- 💬 Ask me about any thing you doubt ** CS **
 
 - 📫 How to reach me **rudresha369@gmail.com**
 
